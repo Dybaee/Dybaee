@@ -35,8 +35,7 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" align="top" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" height="48" align="top" alt="Framer" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
 **UI Design • UX Design • Wireframing • Prototyping • Design Systems • User Research • User Flow**
