@@ -10,7 +10,7 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
   <img src="https://komarev.com/ghpvc/?username=Dybaee&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-🌐 [Portfolio](https://portfolio-daniartha.vercel.app)
+🌐 [Visit My Portfolio](https://portfolio-daniartha.vercel.app)
 
 </div>
 
@@ -92,16 +92,7 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dybaee&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dybaee&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dybaee&theme=tokyonight" />
