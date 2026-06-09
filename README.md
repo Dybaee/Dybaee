@@ -4,7 +4,7 @@
 
 Passionate about crafting intuitive user experiences, modern interfaces, and responsive web applications.
 
-🌐 [Portfolio](https://portfolio-daniartha.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/thomasdaniartha) • 💬 [Discord] Username: Dybae • 📧 [Email](daniartha.my@gmail.com)
+🌐 [Portfolio](https://portfolio-daniartha.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/thomasdaniartha) • 💬 Discord: Dybae • 📧 [Email](daniartha.my@gmail.com)
 
 ---
 
