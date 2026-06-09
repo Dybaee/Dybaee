@@ -82,7 +82,3 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dybaee&theme=tokyonight" />
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
