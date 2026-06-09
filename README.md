@@ -1,10 +1,18 @@
-# Hi 👋, I'm Dani
+<div align="center">
 
-### 🎨 UI/UX Designer & Front-End Developer from Indonesia 🇮🇩
+# Hi 👋, I'm Thomas Dani Artha
+
+### 🎨 UI/UX Designer & Front-End Developer
 
 Passionate about crafting intuitive user experiences, modern interfaces, and responsive web applications.
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dybaee&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 🌐 [Portfolio](https://portfolio-daniartha.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/thomasdaniartha) • 💬 Discord: Dybae • 📧 [Email](daniartha.my@gmail.com)
+
+</div>
 
 ---
 
@@ -27,21 +35,27 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,framer,ps,ai" />
 </p>
 
 **UI Design • UX Design • Wireframing • Prototyping • Design Systems • User Research • User Flow**
 
-### 💻 Front-End Development
+### 💻 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Tools & Workflow
+### ⚛️ Framework
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 **Responsive Design • Accessibility (WCAG) • Component-Based Architecture • Agile Workflow**
@@ -78,22 +92,6 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dybaee&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dybaee&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dybaee&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
