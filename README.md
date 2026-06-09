@@ -58,8 +58,6 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
-**Responsive Design • Accessibility (WCAG) • Component-Based Architecture • Agile Workflow**
-
 ---
 
 ## 🎯 What I Do
