@@ -10,7 +10,7 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
   <img src="https://komarev.com/ghpvc/?username=Dybaee&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-🌐 [Portfolio](https://portfolio-daniartha.vercel.app)
+🌐 [Visit My Portfolio](https://portfolio-daniartha.vercel.app)
 
 </div>
 
