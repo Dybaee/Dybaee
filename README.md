@@ -35,7 +35,9 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </p>
 
 **UI Design • UX Design • Wireframing • Prototyping • Design Systems • User Research • User Flow**
@@ -43,19 +45,22 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ### 💻 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### ⚛️ Framework
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
