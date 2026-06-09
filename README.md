@@ -10,7 +10,7 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
   <img src="https://komarev.com/ghpvc/?username=Dybaee&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-🌐 [Portfolio](https://portfolio-daniartha.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/thomasdaniartha) • 💬 Discord: Dybae • 📧 [Email](daniartha.my@gmail.com)
+🌐 [Portfolio](https://portfolio-daniartha.vercel.app)
 
 </div>
 
@@ -106,12 +106,6 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ## 📫 Let's Connect
 
 🌐 Portfolio: https://portfolio-daniartha.vercel.app
-
-💼 LinkedIn: https://www.linkedin.com/in/thomasdaniartha
-
-💬 Discord: Dybae
-
-📧 Email: daniartha.my@gmail.com
 
 ---
 
