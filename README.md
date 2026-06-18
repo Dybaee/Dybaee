@@ -80,10 +80,5 @@ Passionate about crafting intuitive user experiences, modern interfaces, and res
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dybaee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dybaee&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Dybaee&theme=tokyonight" alt="GitHub Streak" />
 </p>
